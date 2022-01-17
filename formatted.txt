@@ -1,0 +1,18 @@
+[
+    {
+        "phonenum": "012345678912",
+        "fbid": "22222222222",
+        "name": "Name",
+        "surname": "Surname",
+        "sex": "female",
+        "extra": "extra info"
+    },
+    {
+        "phonenum": "012345678912",
+        "fbid": "11111111111",
+        "name": "Name",
+        "surname": "Surname",
+        "sex": "male",
+        "extra": "extra info"
+    }
+]
