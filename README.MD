@@ -1,6 +1,6 @@
 # tgsint-scripts
 
-Scripts written to populate [tgsint-api](https://github.com/runtimeterrorist/tgsint-api) database.
+Scripts written to populate [tgsint-api](https://github.com/runtimeterrorist/tgsint-api) mongoDB collection.
 
 ## Usage
 Install pymongo package.
