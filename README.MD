@@ -1,8 +1,9 @@
 # tgsint-scripts
 
-Scripts written to populate [tgsint-api](https://github.com/runtimeterrorist/tgsint-api) mongoDB collection.
+Scripts written to populate mongoDB collection which serves facebook data leak for phone/person lookup.
 
 ## Usage
+
 Install pymongo package.
 
 Data samples are provided in the repo so you should get the catch.
@@ -13,12 +14,12 @@ Add your database connection `bulk_write.py` (line 5).
 
 Run `bulk_write.py` to populate the database.
 
-
-
 ## Contributing
+
 Pull requests are welcome. If you have a suggestion , please fork the repo and create a pull request.
 
 You can also simply open an issue with the tag "enhancement".
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
